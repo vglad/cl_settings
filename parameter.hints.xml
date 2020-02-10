@@ -1,0 +1,10 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="C/C++">
+        <added pattern="std::runtime_error::runtime_error(_Message)" />
+        <added pattern="detail::concat(value,args)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
