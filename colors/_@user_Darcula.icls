@@ -1,0 +1,14 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2020-03-19T19:51:44</property>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2019.3.4.0.0</property>
+    <property name="modified">2020-03-19T20:08:15</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Droid Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Droid Sans Mono" />
+</scheme>
