@@ -190,6 +190,14 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
+                <option name="id" value="TODO" />
+                <option name="type" value="SLIDING" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
                 <option name="id" value="Run" />
                 <option name="type" value="DOCKED" />
                 <option name="visible" value="true" />
@@ -199,7 +207,23 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
+                <option name="id" value="Debug" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
                 <option name="id" value="Structure" />
+                <option name="type" value="SLIDING" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Database" />
                 <option name="type" value="SLIDING" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -215,24 +239,8 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Favorites" />
-                <option name="type" value="SLIDING" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Debug" />
+                <option name="id" value="CMake" />
                 <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Event Log" />
-                <option name="type" value="SLIDING" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
@@ -247,7 +255,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="TODO" />
+                <option name="id" value="Favorites" />
                 <option name="type" value="SLIDING" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -255,24 +263,8 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="CMake" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Database" />
+                <option name="id" value="Event Log" />
                 <option name="type" value="SLIDING" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Services" />
-                <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
@@ -280,6 +272,14 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Version Control" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Services" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
             </array>
