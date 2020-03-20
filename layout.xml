@@ -158,14 +158,6 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Find" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="bottom" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
                 <option name="id" value="Database Changes" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
@@ -184,6 +176,7 @@
                 </option>
                 <option name="id" value="Messages" />
                 <option name="type" value="DOCKED" />
+                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
@@ -200,7 +193,6 @@
                 </option>
                 <option name="id" value="Run" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
               </ToolWindowInfo>
               <ToolWindowInfo>
                 <option name="anchor" value="right" />
