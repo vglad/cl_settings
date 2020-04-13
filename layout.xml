@@ -174,7 +174,16 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Version Control" />
+                <option name="id" value="Run" />
+                <option name="type" value="DOCKED" />
+                <option name="visible" value="true" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Database" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -182,15 +191,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Debug" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Terminal" />
+                <option name="id" value="CMake" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -206,15 +207,7 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Run" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Key Promoter X" />
+                <option name="id" value="Services" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -223,14 +216,6 @@
                   <Rectangle />
                 </option>
                 <option name="id" value="Messages" />
-                <option name="type" value="DOCKED" />
-              </ToolWindowInfo>
-              <ToolWindowInfo>
-                <option name="anchor" value="right" />
-                <option name="bounds">
-                  <Rectangle />
-                </option>
-                <option name="id" value="Services" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -254,7 +239,15 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="Database" />
+                <option name="id" value="Key Promoter X" />
+                <option name="type" value="DOCKED" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Terminal" />
                 <option name="type" value="DOCKED" />
               </ToolWindowInfo>
               <ToolWindowInfo>
@@ -270,9 +263,16 @@
                 <option name="bounds">
                   <Rectangle />
                 </option>
-                <option name="id" value="CMake" />
+                <option name="id" value="Version Control" />
                 <option name="type" value="DOCKED" />
-                <option name="visible" value="true" />
+              </ToolWindowInfo>
+              <ToolWindowInfo>
+                <option name="anchor" value="right" />
+                <option name="bounds">
+                  <Rectangle />
+                </option>
+                <option name="id" value="Debug" />
+                <option name="type" value="DOCKED" />
               </ToolWindowInfo>
             </array>
           </option>
