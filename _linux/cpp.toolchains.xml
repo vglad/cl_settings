@@ -1,8 +1,8 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="Clang 8.0.1" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="/usr/bin/cmake" customCCompilerPath="/usr/bin/clang" customCXXCompilerPath="/usr/bin/clang++" debuggerKind="BUNDLED_LLDB" />
       <toolchain name="GCC 9.1" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="/usr/bin/cmake" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Clang 8.0.1" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="/usr/bin/cmake" customCCompilerPath="/usr/bin/clang" customCXXCompilerPath="/usr/bin/clang++" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
 </application>
