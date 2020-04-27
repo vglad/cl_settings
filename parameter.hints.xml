@@ -22,6 +22,7 @@
         <added pattern="std::move(t)" />
         <added pattern="std::unique_ptr::unique_ptr(p)" />
         <added pattern="std::map::insert_or_assign(k,obj)" />
+        <added pattern="highcard::Deck::AddOption(name,id)" />
       </blacklist>
     </blacklists>
   </component>
