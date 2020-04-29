@@ -25,6 +25,7 @@
         <added pattern="highcard::Deck::AddOption(name,id)" />
         <added pattern="highcard::OptionID::OptionID(.text,.number,.enabled)" />
         <added pattern="highcard::HighCard::AddOption(name,id)" />
+        <added pattern="highcard::IOptions::AddOption(name,id)" />
       </blacklist>
     </blacklists>
   </component>
