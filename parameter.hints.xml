@@ -26,6 +26,7 @@
         <added pattern="highcard::OptionID::OptionID(.text,.number,.enabled)" />
         <added pattern="highcard::HighCard::AddOption(name,id)" />
         <added pattern="highcard::IOptions::AddOption(name,id)" />
+        <added pattern="std::map::at(k)" />
       </blacklist>
     </blacklists>
   </component>
