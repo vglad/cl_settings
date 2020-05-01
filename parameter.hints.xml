@@ -1,33 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="C/C++">
-        <added pattern="detail::concat(value,args,args)" />
-        <added pattern="std::runtime_error::runtime_error(arg)" />
-        <added pattern="REQUIRE_THROWS_MATCHES(expr,exceptionType,matcher)" />
-        <added pattern="clientServer::detail::concat(value,args,args,args)" />
-        <added pattern="std::invalid_argument::invalid_argument(arg)" />
-        <added pattern="clientServer::client::Client::create_endpoint(raw_ip,port_num)" />
-        <added pattern="clientServer::server::Server::create_endpoint(port_num,ipVersion)" />
-        <added pattern="clientServer::detail::concat(*)" />
-        <added pattern="REQUIRE_THROWS_WITH(expr,matcher)" />
-        <added pattern="clientServer::detail::concat(value,args,args,args,args,args,args,args)" />
-        <added pattern="std::throw_with_nested(t)" />
-        <added pattern="clientServer::client::Client::resolve_host(host,port_num,ios)" />
-        <added pattern="REQUIRE_THROWS_AS(expr,exceptionType)" />
-        <added pattern="REQUIRE_THROWS_WITH(expr)" />
-        <added pattern="clientServer::detail::concat(value,args,args,args,args,args)" />
-        <added pattern="highcard::OptionID::OptionID(.value,.rank,.enabled)" />
-        <added pattern="highcard::Card::AddOption(name,id)" />
-        <added pattern="std::move(t)" />
-        <added pattern="std::unique_ptr::unique_ptr(p)" />
-        <added pattern="std::map::insert_or_assign(k,obj)" />
-        <added pattern="highcard::Deck::AddOption(name,id)" />
-        <added pattern="highcard::OptionID::OptionID(.text,.number,.enabled)" />
-        <added pattern="highcard::HighCard::AddOption(name,id)" />
-        <added pattern="highcard::IOptions::AddOption(name,id)" />
-        <added pattern="std::map::at(k)" />
-      </blacklist>
+      <blacklist language="C/C++" />
     </blacklists>
   </component>
 </application>

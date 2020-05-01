@@ -3,6 +3,14 @@
     <option name="deletedKeys">
       <list>
         <TemplateKey>
+          <option name="groupName" value="C/C++" />
+          <option name="key" value="iter" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="C/C++" />
+          <option name="key" value="itit" />
+        </TemplateKey>
+        <TemplateKey>
           <option name="groupName" value="Shell Script Hidden" />
           <option name="key" value="shell_if" />
         </TemplateKey>
