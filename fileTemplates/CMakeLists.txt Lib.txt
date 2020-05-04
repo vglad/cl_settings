@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 3.12)
+project(ProjectLibrary LANGUAGES CXX)
+
+add_library(libProject STATIC Project.cpp)
+
+target_include_directories(libProject PRIVATE ../include)
+
+set_target_properties(libProject PROPERTIES
+    PREFIX ""
+    CXX_STANDARD 17
+    CXX_STANDARD_REQUIRED ON
+    CXX_EXTENSIONS OFF
+)
